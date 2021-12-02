@@ -21,7 +21,7 @@ A few recommended practices to incorporate in your development sandbox:
 The first time you check out this repository, run
 
 ```
-$ conda env install -f environments/environment.yaml
+$ conda env create -f environments/environment.yaml
 ```
 
 If you notice the YAML file has changed after you fetch changes from github,
